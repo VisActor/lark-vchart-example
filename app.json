@@ -1,0 +1,8 @@
+{
+  "pages": ["pages/index/index", "pages/chart/index"],
+  "window": {
+    "navigationBarBackgroundColor": "#175fff",
+    "navigationBarTitleText": "VChart 飞书小程序示例",
+    "navigationBarTextStyle": "white"
+  }
+}

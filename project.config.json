@@ -1,0 +1,11 @@
+{
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "appid": "cli_a0cf7901e9f9500b",
+  "projectname": "lark"
+}

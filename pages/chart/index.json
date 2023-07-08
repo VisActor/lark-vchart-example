@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "chart": "@visactor/lark-vchart/index"
+  }
+}

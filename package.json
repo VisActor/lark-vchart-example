@@ -1,0 +1,13 @@
+{
+  "name": "lark",
+  "private": true,
+  "description": "VChart 飞书小程序示例",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@visactor/lark-vchart": "^1.1.0-beta.1"
+  }
+}
