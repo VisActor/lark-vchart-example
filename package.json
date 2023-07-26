@@ -8,6 +8,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@visactor/lark-vchart": "^1.1.0-beta.1"
+    "@visactor/lark-vchart": "^1.1.0"
   }
 }
